@@ -1,0 +1,51 @@
+
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Navigation links */
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Footer styling */
+footer {
+    background-color: #eee;
+    padding: 1em;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+/* Article titles */
+h1, h2, h3 {
+    color: #4CAF50;
+}
+
+/* Image style */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 1em;
+}
